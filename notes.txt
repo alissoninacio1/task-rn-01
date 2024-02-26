@@ -1,0 +1,6 @@
+
+
+//foi adicionado expo vector icons
+        expo install @expo/vector-icons
+        
+###icons used from https://icons.expo.fyi/Index

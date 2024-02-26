@@ -1,10 +1,14 @@
-import { Text, View } from "react-native";
+import { Image, Text, View } from "react-native";
 import { styles } from "./styles";
 
 export function Home() {
     return (
         <View style={styles.container}>
-            <Text style={styles.title}></Text>
+            <View style={styles.boxTitle}>
+                <Text style={styles.titleOne}>ta</Text>
+                <Text style={styles.titleTwo}>sk</Text>
+            </View>
+
         </View>
     )
 }

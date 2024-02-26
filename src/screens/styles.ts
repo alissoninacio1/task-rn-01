@@ -3,11 +3,23 @@ import { StyleSheet } from "react-native";
 export const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: "black",
+        backgroundColor: "#000000",
         alignItems: "center",
-        
+
     },
-    title: {
-        color: "white",
+    boxTitle: {
+        flexDirection: "row",
+        paddingVertical: 50,
+    }, 
+    titleOne: {
+        color: "#50C4ED",
+    },
+    titleTwo: {
+        color: "#836FFF",
     }
 })
+
+
+//adicionar um darkmode toggle
+
+
