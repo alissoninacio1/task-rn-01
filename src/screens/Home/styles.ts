@@ -12,7 +12,7 @@ export const styles = StyleSheet.create({
         paddingVertical: 20,  
     }, 
     titleOne: {
-        color: "#50C4ED",
+        color: "#40A2E3",
         fontSize: 26,
         fontWeight: "bold",
         
@@ -38,12 +38,12 @@ export const styles = StyleSheet.create({
 
     },
     input: {
-        width: '70%',
+        width: '72%',
         height: 46,
         backgroundColor: '#383838',
         color: '#fff',
         borderRadius: 5,
-        padding: 10,
+        padding: 14,
         fontSize: 14,
     },
     plus: {
@@ -54,7 +54,7 @@ export const styles = StyleSheet.create({
         width: 46,
         height: 46,
         borderRadius: 5,
-        backgroundColor: "#50C4ED",
+        backgroundColor: "#40A2E3",
         alignItems: 'center',
         justifyContent: 'center'
     }
